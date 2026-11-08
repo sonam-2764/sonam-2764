@@ -7,7 +7,7 @@
 
 ## 🚀 **About Me**  
 
-🔹 **Hello there!** I’m **Sonam kumari**, a **Computer Science Engineering (CSE) student** at **Technocrats Institute of technology** with an insatiable curiosity for **technology, coding, and problem-solving**.  
+🔹 **Hello there!** I’m **Sonam kumari**, a **Computer Science Engineering (CSE) student**  with an insatiable curiosity for **technology, coding, and problem-solving**.  
 🔹 I am on a mission to **transform ideas into reality through code** while constantly evolving as a **developer and innovator**.  
 🔹 My core strengths lie in **programming, development, and tech exploration** as I prepare myself for the **ever-changing world of technology**.  
 
